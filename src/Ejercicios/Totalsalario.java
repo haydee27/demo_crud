@@ -7,7 +7,7 @@ public class Totalsalario {
     double salarioCD;
     double salario;
 
-    public double getSalarioD() {
+    public double getSalarioD()  {
         return salarioD;
     }
 
