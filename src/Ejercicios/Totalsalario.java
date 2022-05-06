@@ -2,7 +2,7 @@
 package Ejercicios;
 
 
-public class Totalsalario {
+public class Totalsalario{
     double salarioD;
     double salarioCD;
     double salario;
